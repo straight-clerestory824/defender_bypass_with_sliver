@@ -57,6 +57,7 @@ Bash
 python3 builder.py -h
 
 ```
+<img width="1441" height="710" alt="image" src="https://github.com/user-attachments/assets/6a171b11-a4b9-4b64-aa14-7182e32dbc3c" />
 
 * * * * *
 
