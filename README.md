@@ -1,6 +1,6 @@
 # Bypass Microsoft Defender with Sliver C2
 
-This repository contains a Python-based automation script designed for educational labs. It streamlines the process of generating, configuring, and cross-compiling a Nim-based shellcode stager for Windows environments.
+This repository contains a Python-based automation script designed for educational labs. It streamlines the process of generating, configuring, and cross-compiling a Nim-based shellcode stager for Windows environments. The Nim code used for the stager comes from this blog post - https://www.numencyber.com/defeating-windows-defender-using-different-programming-languages-with-sliver-c2-shellcode/. 
 
 * * * * *
 
