@@ -3,6 +3,10 @@
 This repository contains a Python-based automation script designed for educational labs. It streamlines the process of generating, configuring, and cross-compiling a Nim-based shellcode stager for Windows environments. The Nim code used for the stager comes from this blog post - https://www.numencyber.com/defeating-windows-defender-using-different-programming-languages-with-sliver-c2-shellcode/. 
 
 * * * * *
+## Video Demo
+Here is a full video demo showing how to use the script. 
+
+https://www.youtube.com/watch?v=g0R5A-xmHuU 
 
 Overview
 --------
